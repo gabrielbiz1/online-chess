@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(230, 227, 225);
+}
+
+#board{
+  width: 400px;
+ 
+}
+#board div{
+  background-color: #fff;
+  width: 100px;
+  height: 100px;
+  float: left;		
+}
+#board div.black{
+  background-color: #000
+}
